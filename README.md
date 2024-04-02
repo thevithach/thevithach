@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Thevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevithach)](https://github.com/thevithach/github-readme-stats)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
 <!--
 **thevithach/thevithach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
