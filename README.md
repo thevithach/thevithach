@@ -12,7 +12,9 @@
 
 <p align="left">👨‍💻 Portfolio website: thevithach.netlify.app
   <br>
-📚 I'm currently taking a bachelor's degree within IT and Information Systems</br> 📫 How to reach me thevithach@gmail.com
+📚 I'm currently taking a bachelor's degree within IT and Information Systems
+</br> 
+📫 How to reach me: thevithach@gmail.com
 </p>
 
 ###
