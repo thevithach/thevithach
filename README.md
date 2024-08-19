@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">👨‍💻 Portfolio website: thevithach.netlify.app
+<p align="left">  👨‍💻 Portfolio website: <a href="https://thevithach.vercel.app" target="_blank">thevithach.vercel.app</a>
+
   <br>
 📚 I'm currently taking a bachelor's degree within IT and Information Systems
 </br> 
