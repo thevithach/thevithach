@@ -16,8 +16,10 @@
 📚 I'm currently taking a bachelor's degree within IT and Information Systems
 </br> 
 📫 How to reach me: thevithach@gmail.com
+<br>
+👷 Currently working on a powerlifting app
+</br>
 </p>
-<p>👷 Currently working on a powerlifting app</p>
 
 ###
 
