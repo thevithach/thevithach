@@ -17,6 +17,7 @@
 </br> 
 📫 How to reach me: thevithach@gmail.com
 </p>
+<p>👷 Currently working on a powerlifting app</p>
 
 ###
 
